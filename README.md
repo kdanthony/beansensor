@@ -9,8 +9,8 @@ The beanscanner.py will listen on a BTLE interface for iBeacon messages from def
 
 Requires the following python modules:
 
-blescan - https://github.com/switchdoclabs/iBeacon-Scanner-
-thingspeak - https://github.com/bergey/thingspeak
-bluetooth - python-bluez package on Raspbian
+* blescan - https://github.com/switchdoclabs/iBeacon-Scanner-
+* thingspeak - https://github.com/bergey/thingspeak
+* bluetooth - python-bluez package on Raspbian
 
 Copy the config.example.py to config.py and edit as needed.
